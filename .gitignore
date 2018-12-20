@@ -1,0 +1,6 @@
+# exclude everything
+images/*
+index.js
+
+# exception to the rule
+!images/.gitkeep 
